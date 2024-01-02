@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to MY Github Profile! 👋
+# Welcome to my Github Profile! 👋
 
 ## About Me
 
