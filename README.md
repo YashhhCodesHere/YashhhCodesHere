@@ -20,9 +20,8 @@ Hello there! I'm Yash Kumar, a first-year B.Tech undergraduate student majoring 
 
 ## Skills
 
-- Programming Languages: Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  & C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+- Programming Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  & ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - DBMS: SQL
 - Web Technologies: HTML, CSS, JavaScript
 - Other: Git, GitHub
