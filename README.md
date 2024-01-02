@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to Yash Kumar's (Mine) Github Profile! 👋
+# Welcome to MY Github Profile! 👋
 
 ## About Me
 
