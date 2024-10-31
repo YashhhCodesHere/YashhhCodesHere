@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello there! I'm Yash Kumar, a first-year B.Tech undergraduate student majoring in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Manipal University Jaipur (2023-27).
+Hello there! I'm Yash Kumar, basically a second-year B.Tech undergraduate student majoring in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Manipal University Jaipur (2023-27).
 
 😄 Pronouns: He/Him
 
