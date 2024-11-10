@@ -1,58 +1,54 @@
 ### Hi there 👋
 
-# Welcome to my Github Profile! 👋
+# Welcome to my GitHub Profile! 🚀
 
 ## About Me
 
-Hello there! I'm Yash Kumar, basically a second-year B.Tech undergraduate student majoring in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Manipal University Jaipur (2023-27).
+Hello! I'm **Yash Kumar**, a second-year B.Tech student majoring in **Computer Science and Engineering** with a specialization in **Artificial Intelligence and Machine Learning** at Manipal University Jaipur (2023-27).
 
-😄 Pronouns: He/Him
-
-- 🌱 I’m currently learning and exploring various aspects of AI and ML.
-- 🔭 I'm passionate about coding, problem-solving, and exploring new technologies.
-- 🤖 My main areas of interest include Artificial Intelligence, Machine Learning, and Computer Vision.
+- 😄 Pronouns: He/Him
+- 🌱 Currently learning and diving deeper into **AI**, **Machine Learning**, and **Data Structures and Algorithms (DSA)**.
+- 🔭 Passionate about **coding**, **problem-solving**, and exploring new **technologies**.
+- 🤖 Main interests: **Data Structures and Algorithms (DSA)**.
 
 ## Education
 
 - 🎓 **Bachelor of Technology (B.Tech)**
-  - Major: Computer Science and Engineering (AI & ML)
-  - College: Manipal University Jaipur
+  - **Major**: Computer Science and Engineering (AI & ML)
+  - **College**: Manipal University Jaipur
 
 ## Skills
 
-- Programming Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  & ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-- DBMS: ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- Web Technologies: HTML, CSS, JavaScript
-- Other: Git, GitHub
+- **Programming Languages**:  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- **Data Structures and Algorithms (DSA)**: Strong foundation and continually improving.
+- **DBMS**: ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Other Tools**: Git, GitHub
+
+## GitHub Stats
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashhhCodesHere&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashhhCodesHere&layout=compact&theme=radical)
+
+## Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YashhhCodesHere&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Connect with Me
 
-Feel free to connect with me anytime! I'm always open to discussions, collaborations, and learning from the community.
+Let's connect! I’m always open to discussions, collaborations, and learning from the community.
 
-## How to Reach Me
-
-- 📧 Email: yashxhere@gmail.com
-- 💬 Discord ID: 1167512569838313522
-- 💬 Telegram: https://t.me/Maybe_Yashhh
+- 📧 **Email**: yashxhere@gmail.com
+- 💬 **Discord**: 1167512569838313522
+- 💬 **Telegram**: [Maybe_Yashhh](https://t.me/Maybe_Yashhh)
 
 ## Let's Code Together!
 
-If you have any suggestions or would like to collaborate on a project, feel free to open an issue or submit a pull request. Let's learn and grow together in the world of technology!
+If you have any suggestions or are interested in collaborating, feel free to reach out, open an issue, or submit a pull request. Let's learn and grow together in the world of technology!
 
-Happy Coding! 🚀
+---
 
-<!--
-**YashhhCodesHere/YashhhCodesHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
