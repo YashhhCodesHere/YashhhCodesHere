@@ -30,8 +30,6 @@ Hello! I'm **Yash Kumar**, a second-year B.Tech student majoring in **Computer S
 
 ## GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashhhCodesHere&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashhhCodesHere&layout=compact&theme=radical)
 
 ## Contribution Streak
