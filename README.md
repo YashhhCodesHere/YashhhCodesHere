@@ -28,9 +28,6 @@ Hello! I'm **Yash Kumar**, a second-year B.Tech student majoring in **Computer S
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Other Tools**: Git, GitHub
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashhhCodesHere&layout=compact&theme=radical)
 
 ## Contribution Streak
 
