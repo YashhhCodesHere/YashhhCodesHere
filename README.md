@@ -29,10 +29,6 @@ Hello! I'm **Yash Kumar**, a second-year B.Tech student majoring in **Computer S
 - **Other Tools**: Git, GitHub
 
 
-## Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YashhhCodesHere&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ## Connect with Me
 
 Let's connect! I’m always open to discussions, collaborations, and learning from the community.
